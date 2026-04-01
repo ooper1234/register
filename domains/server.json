@@ -1,0 +1,10 @@
+{
+  "owner": {
+    "username": "ooper1234",
+    "email": "nipitpon.sirituttumrong@gmail.com"
+  },
+  "records": {
+    "CNAME": "cooper-truenas.com"
+  },
+  "proxied": true
+}
